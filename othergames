@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Other Games</title>
+  <link rel="stylesheet" type="text/css"
+      href="othergamesstyle.css" media="all" />
+
+    </head>
+    <body>
+    <header>
+    <div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/homepage">Home</a>
+</button>
+</div>
+<div class="dropdown-content">
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty8">Mario Party 8</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty9">Mario Party 9</a>
+</button>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Other Games</a>
+</button>
+
+</div>
+</div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/mariopartyandothergames/blob/main/marioparty9">Mario Party 9</a>
+  </button>
+<div class="dropdown-content">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty8">Mario Party 8</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty9">Mario Party 9</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">NOT Mario Party</a>
+</div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022.github.io/blob/main/quiz">Quiz</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Other Games</a>
+  </button>
+</div>
+<h1>Games that are NOT Mario Party</h1>
+</header>
+<main>
+<h2>Geometry Dash</h2>
+<h2>The Impossible Game</h2>
+<p>
+From April 14 to April 19, 2025, I played The Impossible Game on my mom's phone. I beat and recorded a level every day during those five days.
+<br>0:00 Fire Aura
+<br>1:41 Fire Aura (Xbox Version)
+<br>3:24 Chaoz Fantasy
+<br>5:07 Heaven
+<br>6:50 Phazd
+<p>
+<video width="640" height="360" controls>Your browser does not support the video tag.
+  <source src="TheImpossibleGameAllLevels.mp4"/>
+</video>
+</p>
+<p>
+I used ActivePresenter to edit this video. I no longer use it; instead, I use online-video-cutter.com
+</p>
+<p>
+I think The Impossible Game is better than Geometry Dash since The Impossible Game was made first. There is no level editor or epilepsy in The Impossible Game mobile version.
+</p>
+</main>
+<footer>
+
+<address class="box">
+Last Updated: October 28, 2025
+<br>Copyright &copy; 2025
+</address>
+</footer>
+</body>
+</html>
