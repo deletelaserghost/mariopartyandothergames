@@ -5,7 +5,7 @@ background: lime;
 color: chocolate;
 }
 
-h1 { color: #4E2000; font-family: Impact;
+h1 { color: 4E2000; font-family: Impact;
 opacity: 0.5;}
 h2 { color: darkblue; font-family: Impact;}
 a:hover { background: palegreen;}
@@ -17,7 +17,7 @@ color: darkred;
 padding: 1px;
 font-size: 30px;
 border: solid gold;
-font-family: consolas}
+font-family: consolas;}
 body {
 background-color: Turquoise;
 color: black;
@@ -28,20 +28,20 @@ li {
 .dropdown {
 position: relative;
 display: inline-block;
-font-family: consolas}
+font-family: consolas;}
 .dropdown-content {
 display: none;
 position: absolute;
 background-color: lightgreen;
 min-width: 8px;
 z-index: 1;
-font-family: consolas}
+font-family: consolas;}
 .dropdown-content a {
 color: darkred;
 padding: 8px 6px;
 text-decoration: none;
 display: block;
-font-family: consolas}
+font-family: consolas;}
 h1::selection {
   color: navy;
 }
