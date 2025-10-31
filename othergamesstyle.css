@@ -5,9 +5,9 @@ background: lime;
 color: chocolate;
 }
 
-h1 { color: indigo; font-family: "Copperplate", fantasy;
+h1 { color: #003600; font-family: Impact;
 opacity: 0.5;}
-h2 { color: darkblue; font-family: "Copperplate", fantasy;}
+h2 { color: darkblue; font-family: Impact;}
 a:hover { background: palegreen;}
 a:visited {color: darkred;}
 a:link {color: darkred;}
@@ -17,9 +17,9 @@ color: darkred;
 padding: 1px;
 font-size: 30px;
 border: solid gold;
-font-family: monaco, monospace}
+font-family: monaco}
 body {
-background-color: MediumTurquoise;
+background-color: Turquoise;
 color: black;
 font-family: Lucida Console;}
 li {
@@ -28,20 +28,20 @@ li {
 .dropdown {
 position: relative;
 display: inline-block;
-font-family: monaco, monospace}
+font-family: monaco}
 .dropdown-content {
 display: none;
 position: absolute;
 background-color: lightgreen;
 min-width: 8px;
 z-index: 1;
-font-family: monaco, monospace}
+font-family: monaco}
 .dropdown-content a {
 color: darkred;
 padding: 8px 6px;
 text-decoration: none;
 display: block;
-font-family: monaco, monospace}
+font-family: monaco}
 h1::selection {
   color: navy;
 }
