@@ -28,20 +28,20 @@ li {
 .dropdown {
 position: relative;
 display: inline-block;
-font-family: monaco}
+font-family: consola}
 .dropdown-content {
 display: none;
 position: absolute;
 background-color: lightgreen;
 min-width: 8px;
 z-index: 1;
-font-family: monaco}
+font-family: consola}
 .dropdown-content a {
 color: darkred;
 padding: 8px 6px;
 text-decoration: none;
 display: block;
-font-family: monaco}
+font-family: consola}
 h1::selection {
   color: navy;
 }
