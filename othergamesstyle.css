@@ -5,8 +5,8 @@ background: lime;
 color: chocolate;
 }
 
-h1 { color: 4E2000; font-family: Impact;
-opacity: 0.5;}
+h1 { color: #4E2000; font-family: Impact;
+}
 h2 { color: darkblue; font-family: Impact;}
 a:hover { background: palegreen;}
 a:visited {color: darkred;}
