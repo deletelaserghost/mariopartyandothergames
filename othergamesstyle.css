@@ -5,10 +5,9 @@ background: lime;
 color: chocolate;
 }
 
-h1 { color: indigo; font-family: Courier New;
+h1 { color: indigo; font-family: Copperplate;
 opacity: 0.5;}
-h2 { color: darkblue; font-family: Courier New;}
-.box { background-color: palegreen;}
+h2 { color: darkblue; font-family: Copperplate;}
 a:hover { background: palegreen;}
 a:visited {color: darkred;}
 a:link {color: darkred;}
@@ -22,7 +21,7 @@ border: solid gold;
 body {
 background-color: MediumTurquoise;
 color: black;
-}
+font-family: Lucida Console;}
 li {
   list-style: none;
 }
