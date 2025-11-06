@@ -13,7 +13,6 @@
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/homepage">Home</a>
 </button>
 </div>
-<div class="dropdown-content">
 <div class="dropdown">
 <button class="dropbtn">
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty8">Mario Party 8</a>
@@ -23,18 +22,6 @@
 <button class="dropbtn">
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty9">Mario Party 9</a>
 </button>
-<div class="dropdown">
-<button class="dropbtn">
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Other Games</a>
-</button>
-
-</div>
-</div>
-</div>
-<div class="dropdown">
-  <button class="dropbtn">
-    <a href="https://htmlpreview.github.io/?https://github.com/mariopartyandothergames/blob/main/marioparty9">Mario Party 9</a>
-  </button>
 <div class="dropdown-content">
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty8">Mario Party 8</a>
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty9">Mario Party 9</a>
@@ -42,8 +29,14 @@
 </div>
 </div>
 <div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Other Games</a>
+</button>
+
+</div>
+<div class="dropdown">
   <button class="dropbtn">
-    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022.github.io/blob/main/quiz">Quiz</a>
+      <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/questions">Questions</a>
   </button>
 </div>
 <div class="dropdown">
