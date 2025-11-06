@@ -17,6 +17,12 @@
 <button class="dropbtn">
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty8">Mario Party 8</a>
 </button>
+<div class="dropdown-content">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty8">Party Tent</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty9">Star Battle Arena</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Minigame Tent</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Extras Zone</a>
+</div>
 </div>
 <div class="dropdown">
 <button class="dropbtn">
@@ -37,11 +43,6 @@
 <div class="dropdown">
   <button class="dropbtn">
       <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/questions">Questions</a>
-  </button>
-</div>
-<div class="dropdown">
-  <button class="dropbtn">
-    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Other Games</a>
   </button>
 </div>
 <h1>Other Games</h1>
