@@ -1,1 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Questions</title>
+  <link rel="stylesheet" type="text/css"
+      href="homestyle.css" media="all" />
+    </head>
+    <body>
+    <header>
+  <div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/homepage">Home</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty8">Mario Party 8</a>
+</button>
+<div class="dropdown-content">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty8">Party Tent</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty9">Star Battle Arena</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Minigame Tent</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Extras Zone</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty9">Mario Party 9</a>
+</button>
+<div class="dropdown-content">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty8">Party Mode</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/marioparty9">Solo Mode</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Minigames and Extras</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/othergames">Other Games</a>
+</button>
 
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+      <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mariopartyandothergames/blob/main/questions">Questions</a>
+  </button>
+</div>
+<h1>Questions</h1>
+</header>
+<main>
+<h2>Why don't you use YouTube?</h2>
+<p>
+1. I find it a really creepy website.
+As someone who has uploaded a YouTube video before, YouTube keeps track of how many views you get per day and even where others watched my video.
+I briefly embedded my video onto my first website and some people viewed it from there. YouTube keeps track of how many views I get from external websites.
+</p>
+</main>
+<footer>
+
+<address class="box">
+Last Updated: November 5, 2025
+<br>Copyright &copy; 2025
+</address>
+</footer>
+</body>
+</html>
